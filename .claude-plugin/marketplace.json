@@ -1,0 +1,18 @@
+{
+  "name": "sanuponnulli-skills",
+  "owner": {
+    "name": "Sanu Ponnulli"
+  },
+  "metadata": {
+    "description": "Agent skills by Sanu Ponnulli."
+  },
+  "plugins": [
+    {
+      "name": "apple-design-hig",
+      "description": "Apple's 2026 Human Interface Guidelines (Liquid Glass, SF type, Dynamic Type, color, layout, accessibility) for designing, building and reviewing UI on Apple platforms and the web.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/apple-design-hig"]
+    }
+  ]
+}
